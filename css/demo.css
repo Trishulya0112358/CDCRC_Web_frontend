@@ -48,10 +48,25 @@ h1 span, h5 {
 }
 
 .btn-grp{
-	border: solid;
-	width: 620px;
-	margin-left: 250px;
+	width: 87px;
+	margin-left: 290px;
 	z-index: 1010;
+}
+
+.btn-grp2{
+	margin-left: 392px;
+	margin-top: -38px;
+	width: 150px;
+}
+.btn-grp3{
+	margin-left: 555px;
+	margin-top: -38px;
+	width: 130px;
+}
+.btn-grp4{
+	margin-left: 700px;
+	margin-top: -38px;
+	width: 130px;
 }
 
 .wrapper {
